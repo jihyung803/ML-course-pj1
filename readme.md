@@ -31,6 +31,7 @@ This analysis investigates the relationship between demographic characteristicsâ
 - Census data relies on self-reporting, potentially introducing reporting biases.
 - Income data does not account for income inequality or detailed economic disparities within counties.
 - Missing mortality data in sparsely populated counties due to confidentiality restrictions.
+- No age-related column exists since age is a key factor of mortality.
 
 ## Data Reproduction:
 - install additional package: pip install -r requirements.txt
